@@ -14,7 +14,8 @@ header{
     padding: 2px 15px;
     background-color: white;
     border: solid black 2px;
-    flex-grow:10%;
+    flex-grow: 10%;
+    margin: 5px
 }
 
 .table{
